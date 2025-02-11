@@ -1,0 +1,9 @@
+realizar de manera individual,donde se debe aportar periódicamente al repositorio de GitHub. Para este caso, se creará un repositorio privado llamado “Examen_FBBDD-1_Apellido1Nombre1” con dicho fin. 
+Este será compartido como colaborador al correo mencionado por el Trainer.
+En dicho repositorio se agregara un documento formal tipo documentación, donde se haga los pasos generales aprendidos a lo largo de la formación de bases de datos:
+Extrapolación del caso de estudio hacia un modelo conceptual.
+Conversión formal del modelo conceptual al modelo lógico.
+Normalización hasta la 3FN de dicho modelo lógico.
+Conversión del modelo lógico a modelo físico.
+Construcción formal del modelo físico con 3 consultas de las anteriormente listadas.
+Creación del modelo UML tipo E-R basado en el estándar de MySQL Workbench.
